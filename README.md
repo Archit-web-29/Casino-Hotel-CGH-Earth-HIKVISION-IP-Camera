@@ -15,7 +15,7 @@ The name of the WiFi is CGH Hotel and it is a captive WiFi. The password was you
 
 Using the website 'DNS Leak Test' and some simple requests library python code, I was able to find the PUBLIC IP address of the CGH Hotel WiFi - 117.193.165.172
 
-After finding the PUBLIC IP Address, I was able to make a link that would allow anyone from anywhere in this world to access live camera footage of Casino Hotel CGH Earth, Kochi, Kerala, India. On clicking the below links, you would have gained access to the live camera footage:
+After finding the PUBLIC IP Address, I was able to make a link that would allow anyone from anywhere in this world to access live camera footage of Casino Hotel CGH Earth, Kochi, Kerala, India. On clicking the below links, you would have gained access to the live camera footage. Also, for security purposes, use a VPN:
 http://117.193.165.172
 rtsp://admin:admin@117.193.165.172:554/Streaming/Channels/101
 
